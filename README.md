@@ -1,4 +1,4 @@
-# 🚀 Controle de Fluxo com Jetpack Compose
+# 🚀 Controle de Fluxo com Tipo de Usuário
 
 ![Kotlin](https://img.shields.io/badge/Kotlin-1.9+-purple)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-UI-green)
