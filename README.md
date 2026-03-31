@@ -145,7 +145,7 @@ Logout ──────▶ NotLogged
 
 **Jaciporan Vieira**
 * 💼 Desenvolvedor FullStack
-* ☁️ Experiência com Cloud e Java
+* ☁️ Experiência com Java, Cloud e Mobile
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaciporan-vieira-silva-483564158/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:jaciporan@email.com)
